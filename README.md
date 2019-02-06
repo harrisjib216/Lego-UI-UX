@@ -10,6 +10,6 @@ would like to check out my work.
 
 Catchphrase: Once this is completed, I will be a Unicorn!
 
-![Lego - UI/UX](lego-sketch.png)
+![Lego - UI/UX](lego-ui-ux.png)
 
 ---
